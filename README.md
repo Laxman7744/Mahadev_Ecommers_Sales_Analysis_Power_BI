@@ -4,7 +4,7 @@ A dynamic **Power BI** dashboard to help **Madhav Store** track and analyze onli
 
 ---
 
-## 📌 Objective
+## 📌 Objective                      
 
 Owner of **Madhav Store** wants a clear, interactive dashboard to:
 - Track online sales performance across Indian states.
